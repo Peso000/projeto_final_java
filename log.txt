@@ -1,0 +1,8 @@
+2025-06-10 20:35:30 - Cliente cadastrado: 05603860286
+2025-06-10 20:36:49 - Telefone atualizado para cliente: 05603860286
+2025-06-10 20:37:14 - Cliente removido: 05603860286
+2025-06-10 20:41:59 - Cliente cadastrado: 05603860286
+2025-06-10 20:42:24 - Cliente cadastrado: 83159584291
+2025-06-10 20:42:49 - Carro cadastrado: 123ahref
+2025-06-10 20:49:59 - Moto cadastrada: 321ahref
+2025-06-10 20:50:30 - Entrada registrada: Cliente 05603860286, Veículo 123ahref
